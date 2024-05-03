@@ -9,3 +9,12 @@ Embarking on my journey, I joined a fast-track program that allowed me to commen
 My passion lies in the realm of data, where I excel in tasks ranging from meticulous data cleaning to crafting insightful data visualizations and dynamic dashboards. I find joy in extracting meaning from raw data and transforming it into actionable insights. Proficient in tools such as Excel, PowerBI, Tableau, SQL, and Python, I leverage these skills to unlock the potential within datasets and drive informed decision-making.
 
 As I continue to navigate my career path, I am actively seeking opportunities where I can apply my expertise not only to contribute to organizational growth but also to save towards pursuing my master's degree. I am eager to embark on new challenges and collaborations that will further enrich my skill set while making a meaningful impact.
+
+## My skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softskills.md %}
